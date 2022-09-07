@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Suitmedia Mobile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome</string>
+    <string name="subtitle_desc">This is app for suitmedia mobile developer test</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="next">Next</string>
+    <string name="check">Check</string>
+    <string name="copyright">Copyright 2020 Suitmedia All Rights Reserved.</string>
+    <string name="hallo">Hallo,</string>
+    <string name="choose_event">Choose Event</string>
+    <string name="choose_guest">Choose Guest</string>
+    <string name="search">Search</string>
+    <string name="maps">Maps</string>
+    <string name="list">List</string>
+</resources>
